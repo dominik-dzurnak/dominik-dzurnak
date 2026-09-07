@@ -29,8 +29,8 @@ This profile hosts practice projects and case study work from my SAP learning pa
 
 I'm actively working toward SAP consulting roles and always happy to talk shop about FI/CO processes, ABAP, or S/4HANA implementations.
 
-- 💼 LinkedIn: [add your link]
-- 📧 Email: [add your email]
+- 💼 LinkedIn: https://www.linkedin.com/in/dominik-dzurnak/
+- 📧 Email: dzurnak.mail@gmail.com
 
 ---
 ⭐ *Currently learning in public — feedback and connections welcome.*
