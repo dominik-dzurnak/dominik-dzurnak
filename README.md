@@ -1,6 +1,6 @@
 # Hi, I'm Dominik 👋
 
-**Aspiring SAP FI/CO Consultant | ABAP Fundamentals | SAP S/4HANA**
+**Aspiring SAP Consultant | ABAP Fundamentals | SAP S/4HANA**
 
 I'm building toward a career in SAP consulting, with a focus on Financial Accounting and Controlling (FI/CO), and I'm developing hands-on ABAP skills to bridge the gap between functional and technical work.
 
