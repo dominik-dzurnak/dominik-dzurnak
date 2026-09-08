@@ -11,11 +11,12 @@ I'm building toward a career in SAP consulting, with a focus on Financial Accoun
 - ☁️ **SAP BTP** — extension capabilities, RAP (RESTful ABAP Programming) framework, OData services, Fiori Elements
 - 📋 **SAP Activate methodology** — project phases, deliverables, go-live readiness
 
-## 📜 Certifications in Progress
+## 📜 Certifications
 
-- SAP Technology Consultant *(in progress)*
-- SAP Business Analyst *(in progress)*
-- SAP S/4HANA Specialization *(in progress)*
+- SAP Technology Consultant
+- SAP Business Analyst 
+- SAP ABAP S/4HANA Specialization
+- SAP FI/CO Specialization
 
 ## 🛠️ What You'll Find Here
 
