@@ -13,10 +13,10 @@ I'm building toward a career in SAP consulting, with a focus on Financial Accoun
 
 ## 📜 Certifications
 
-- SAP Technology Consultant
-- SAP Business Analyst 
-- SAP ABAP S/4HANA Specialization
-- SAP FI/CO Specialization
+✅ SAP Technology Consultant — Professional Certificate, SAP University Alliances Program (via Coursera). Verify
+✅ SAP Business Analyst — Professional Certificate
+✅ SAP FI/CO Certificate
+✅ SAP S/4HANA: From ABAP to Cloud-Ready Applications — Specialization
 
 ## 🛠️ What You'll Find Here
 
